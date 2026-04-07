@@ -26,5 +26,3 @@ End-to-End analytic solution for expense monitoring.
 ## Power BI
 <img width="1764" height="780" alt="image" src="https://github.com/user-attachments/assets/9f2794e7-8b26-496a-b0d1-d9df5842c76b" />
 
-Temporary Solution while waiting for technology transformation to automate Vendor to Data Platform synchronization. Further details on this project could not be shared due to confidentiality.
-
